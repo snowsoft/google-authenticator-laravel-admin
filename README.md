@@ -5,7 +5,7 @@ Laravel-admin Captcha Extension
 
 ### install
 ````
-composer require tanchengjin/laravel-admin-google-authenticator
+composer require snowsoft/google-authenticator-laravel-admin
 ````
 
 ### Generate Secret 
